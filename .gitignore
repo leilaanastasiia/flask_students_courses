@@ -1,0 +1,10 @@
+.idea
+.git
+
+/venv/
+**/__pycache__
+/tests/benchmarks/
+/tests/coverage
+/coverage
+/flaskenv
+courses_app/courses.db
